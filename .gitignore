@@ -8,6 +8,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+cosmos.userdeps
 
 # macOS
 .DS_Store
